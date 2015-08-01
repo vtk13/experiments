@@ -1,1 +1,3 @@
 /.idea/
+/empty-django-performance/django_test/db.sqlite3
+__pycache__
